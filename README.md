@@ -10,7 +10,7 @@ Sources
 
 PS5 showcase: *https://www.youtube.com/watch?v=tjji8NEW9lo*
 
-Xbox Series X showcase: *https://www.youtube.com/watch?v=F7nkg_5ZfrM*
+Xbox Series X showcase: *https://www.youtube.com/watch?v=fjS3EHKWPxY*
 
 This website helped me to understand the process of tokenization, POS tagging and lemmatization: *https://www.machinelearningplus.com/nlp/lemmatization-examples-python/*
 

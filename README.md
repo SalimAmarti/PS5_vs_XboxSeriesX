@@ -73,5 +73,4 @@ Next steps / Improvements
 
 Infographics
 -------
-
-Work in progress...
+![Infographics](https://github.com/SalimAmarti/PS5_vs_XboxSeriesX/blob/master/PS5%20vs%20Xbox%20Series%20X.png)
